@@ -2,7 +2,6 @@
 <img src="https://github.com/AnneshaAhsan/AnneshaAhsan/blob/main/github-header-image.png?raw=true" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Annesha Ahsan</h1>
 <h3 align="center">Simply Learning to Develop Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anneshaahsan&label=Profile%20views&color=0e75b6&style=flat" alt="anneshaahsan" /> </p>
