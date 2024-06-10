@@ -2,8 +2,6 @@
 <img src="https://github.com/AnneshaAhsan/AnneshaAhsan/blob/main/github-header-image.png?raw=true" align="center" style="width: 100%" />
 </div>
 
-<h3 align="center">Simply Learning to Develop Software</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anneshaahsan&label=Profile%20views&color=0e75b6&style=flat" alt="anneshaahsan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anneshaahsan" target="blank"><img src="https://img.shields.io/twitter/follow/anneshaahsan?logo=twitter&style=for-the-badge" alt="anneshaahsan" /></a> </p>
