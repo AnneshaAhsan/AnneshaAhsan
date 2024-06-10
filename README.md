@@ -1,4 +1,6 @@
-![Header](./github-header-image-name.png)
+<div align="center">
+<img src="https://github.com/AnneshaAhsan/AnneshaAhsan/blob/main/github-header-image.png?raw=true" align="center" style="width: 100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Annesha Ahsan</h1>
 <h3 align="center">Simply Learning to Develop Software</h3>
