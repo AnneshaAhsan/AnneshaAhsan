@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me **official.annesha@gmail.com**
-- 💡 Fun fact: My nickname is Nisha (only my family calls me)
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
