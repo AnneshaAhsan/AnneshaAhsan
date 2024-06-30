@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anneshaahsan&label=Profile%20views&color=0e75b6&style=flat" alt="anneshaahsan" /> </p>
 
 
-- 🌱 I’m currently learning **Python(Django), PHP (Laravel), Vue.js**
 - 📫 How to reach me **official.annesha@gmail.com**
 - 💡 Fun fact: My nickname is Nisha (only my family calls me)
   
