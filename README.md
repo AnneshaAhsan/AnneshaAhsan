@@ -21,8 +21,12 @@
 </p>
 
 <h3 align="left">Projects</h3>
-<p align="left">
-<a href="https://admirable-donut-053912.netlify.app/"></a>
+<p align="left"> 
+<a href="https://inquisitive-pika-65537e.netlify.ap">Image Slider</a>
+<a href="https://admirable-donut-053912.netlify.app">Image Carousel</a>
+<a href="https://cosmic-rolypoly-0cf48d.netlify.app">Form Input Wave</a>
+<a href="https://stirring-griffin-85e385.netlify.app">Redesign</a>
+<a href="https://animated-countdown-adf9b0.netlify.app">Animated Countdown</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> <br>
