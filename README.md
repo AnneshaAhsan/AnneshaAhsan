@@ -22,7 +22,7 @@
 
 <h3 align="left">Projects</h3>
 <p align="left"> 
-<a href="https://inquisitive-pika-65537e.netlify.ap">Image Slider</a>
+<a href="https://inquisitive-pika-65537e.netlify.app">Background Image Slider</a>
 <a href="https://admirable-donut-053912.netlify.app">Image Carousel</a>
 <a href="https://cosmic-rolypoly-0cf48d.netlify.app">Form Input Wave</a>
 <a href="https://stirring-griffin-85e385.netlify.app">Redesign</a>
