@@ -1,11 +1,5 @@
-<div align="center">
-<img src="https://github.com/AnneshaAhsan/AnneshaAhsan/blob/main/github-header-image%20(7).png?raw=true" align="center" style="width: 100%" />
-</div>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anneshaahsan&label=Profile%20views&color=0e75b6&style=flat" alt="anneshaahsan" /> </p>
-
-
-- 📫 How to reach me **official.annesha@gmail.com**
+Hi ! I am Annesha Ahsan ! Knock me at 
+- 📫**official.annesha@gmail.com**
 
   
 <h3 align="left">Connect with me:</h3>
