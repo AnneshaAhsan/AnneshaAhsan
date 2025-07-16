@@ -2,7 +2,9 @@ Hi ! I am Annesha Ahsan ! Knock me at
 - 📫**official.annesha@gmail.com**
 
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<a href="https://anneshaahsan.github.io/Annesha_Portfolio/">Portfolio</a>
+</h3>
 <p align="left">
 
 <a href="https://twitter.com/anneshaahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anneshaahsan" height="30" width="40" /></a>
@@ -11,6 +13,7 @@ Hi ! I am Annesha Ahsan ! Knock me at
 
 <h3 align="left">Projects</h3>
 <p align="left"> 
+<a href="https://anneshaahsan.github.io/Multiple-Projects/">Mini Projects Gallery</a>
 <a href="https://anneshaahsan.github.io/Tourest_Travel/">Tourest Travel</a>
 <a href="https://anneshaahsan.github.io/Glowing_E_Com/">Glow E Com</a>
 <a href="https://inquisitive-pika-65537e.netlify.app">Background Image Slider</a>
